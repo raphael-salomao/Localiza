@@ -1,0 +1,9 @@
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/bin/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.deps.json
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/bin/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/bin/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.pdb
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.csprojAssemblyReference.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.AssemblyInfoInputs.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.AssemblyInfo.cs
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.csproj.CoreCompileInputs.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/Debug/netstandard2.1/Localiza.Hertz.Tools.Calculator.pdb
