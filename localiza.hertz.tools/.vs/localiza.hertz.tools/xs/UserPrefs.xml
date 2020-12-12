@@ -1,6 +1,9 @@
 ﻿<Properties StartupConfiguration="{98CFD53B-AE4C-4EE9-9E18-BE7DD7F7850B}|Default">
   <MonoDevelop.Ide.ItemProperties.test.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Localiza.Hertz.Tools.Calculator/Calculations/Implementation/Calculations/DivisorNumber.cs">
+    <Files>
+      <File FileName="src/Localiza.Hertz.Tools.Calculator/Calculations/Implementation/Calculations/DivisorNumber.cs" Line="26" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -9,7 +12,9 @@
               <Node name="Localiza.Hertz.Tools.Calculator" expanded="True">
                 <Node name="Calculations" expanded="True">
                   <Node name="Implementation" expanded="True">
-                    <Node name="Calculate.cs" selected="True" />
+                    <Node name="Calculations" expanded="True">
+                      <Node name="DivisorNumber.cs" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
                 <Node name="Facade" expanded="True" />
