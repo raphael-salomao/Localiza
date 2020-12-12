@@ -20,6 +20,19 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
         private IResultDivisorNumbers CalculateDivisorNumbers()
         {
             var result = new List<decimal>();
+            var div = 2;
+
+            while (_calculate.InputNumber > 1)
+            {
+                if ((_calculate.InputNumber % div) == 0)
+                {
+                    _calculate.InputNumber = (_calculate.InputNumber / div);
+                    result.Add(div);
+                } else
+                {
+                    div++;
+                }
+            }
 
             return new ResultDivisorNumbers(result);
         }
