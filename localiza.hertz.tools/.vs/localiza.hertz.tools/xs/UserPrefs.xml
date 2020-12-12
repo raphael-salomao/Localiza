@@ -9,17 +9,16 @@
               <Node name="Localiza.Hertz.Tools.Calculator" expanded="True">
                 <Node name="Calculations" expanded="True">
                   <Node name="Implementation" expanded="True">
-                    <Node name="Calculations" expanded="True" />
-                    <Node name="Results" expanded="True" />
+                    <Node name="Calculate.cs" selected="True" />
                   </Node>
                 </Node>
-                <Node name="Facade" expanded="True">
-                  <Node name="FacadeCalculator.cs" selected="True" />
-                </Node>
+                <Node name="Facade" expanded="True" />
               </Node>
             </Node>
             <Node name="test" expanded="True">
-              <Node name="UnitTest" expanded="True" />
+              <Node name="UnitTest" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

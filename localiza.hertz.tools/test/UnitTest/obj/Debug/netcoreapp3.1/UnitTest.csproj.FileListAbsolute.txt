@@ -1,3 +1,4 @@
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
@@ -8,7 +9,6 @@
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/UnitTest.pdb
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
-/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
@@ -94,3 +94,5 @@
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.pdb
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/obj/Debug/netcoreapp3.1/UnitTest.genruntimeconfig.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Localiza.Hertz.Tools.Calculator.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/bin/Debug/netcoreapp3.1/Localiza.Hertz.Tools.Calculator.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lvrL8rYNh6wiVNQOPWmrskBQaKmuCukHnuIjUi1ygOMG+l14lmabLlRo5CRL/asARayrP692PpSp7y7Oh/cJw==",
+  "dgSpecHash": "C1xwlN2WJ6vddtRb5HX9DFlSFMqAl8rMmVlj1blh1oSzll35j+qu84H1qkAkKUcozDARYOV2MdIQgwrKeB+EXw==",
   "success": true,
-  "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+  "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

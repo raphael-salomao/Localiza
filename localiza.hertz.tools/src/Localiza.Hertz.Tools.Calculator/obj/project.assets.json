@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
       "projectName": "Localiza.Hertz.Tools.Calculator",
-      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
       "packagesPath": "/Users/raphaelsalomao/.nuget/packages/",
-      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/Localiza.Hertz.Tools.Calculator/obj/",
+      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
