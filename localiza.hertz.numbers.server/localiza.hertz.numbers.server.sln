@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Hertz.Numbers.Api"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Hertz.Tools.Calculator", "..\localiza.hertz.tools\src\Localiza.Hertz.Tools.Calculator\Localiza.Hertz.Tools.Calculator.csproj", "{C253A63A-0BE5-47BC-BD11-51C017E8C665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Hertz.Numbers.ConsoleApplication", "src\Localiza.Hertz.Numbers.ConsoleApplication\Localiza.Hertz.Numbers.ConsoleApplication.csproj", "{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
