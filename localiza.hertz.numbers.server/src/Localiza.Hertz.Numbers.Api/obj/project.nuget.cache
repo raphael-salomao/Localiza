@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sEfFOMo2AJmg3eBD/91ZMmL5ErWTwTBq7z+S+jakYxSvtaQaMD0goTG1zNVhPTbK9qebWWvrUPksHoFE97tsnA==",
+  "dgSpecHash": "MKmvdToygEHBZ6ANM3FOLCAorgtEGAfE6nw0RN5rUE4+0RIsIKrH/oAxHy42nEbze2Ud5QxaMFWi71ODc3bSIg==",
   "success": true,
-  "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
+  "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
   "expectedPackageFiles": [
     "/Users/raphaelsalomao/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/raphaelsalomao/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -9,7 +9,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\localiza.hertz.tools\src\Localiza.Hertz.Tools.Calculator\Localiza.Hertz.Tools.Calculator.csproj">
+    <ProjectReference Include="..\..\..\localiza.hertz.tools\src\Localiza.Hertz.Tools.Calculator\Localiza.Hertz.Tools.Calculator.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>

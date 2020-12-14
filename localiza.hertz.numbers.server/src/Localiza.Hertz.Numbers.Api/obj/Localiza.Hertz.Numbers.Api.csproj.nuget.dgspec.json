@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj": {}
+    "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj": {}
   },
   "projects": {
-    "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj": {
+    "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
+        "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
         "projectName": "Localiza.Hertz.Numbers.Api",
-        "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
+        "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
         "packagesPath": "/Users/raphaelsalomao/.nuget/packages/",
-        "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/obj/",
+        "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

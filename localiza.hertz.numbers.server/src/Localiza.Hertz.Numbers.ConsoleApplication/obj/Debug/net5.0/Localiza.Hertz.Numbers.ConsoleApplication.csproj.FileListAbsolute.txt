@@ -4,14 +4,14 @@
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/bin/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/bin/Debug/net5.0/ref/Localiza.Hertz.Numbers.ConsoleApplication.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/bin/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.pdb
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.csprojAssemblyReference.cache
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.AssemblyInfoInputs.cache
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.AssemblyInfo.cs
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.csproj.CopyComplete
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/ref/Localiza.Hertz.Numbers.ConsoleApplication.dll
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.pdb
 /Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.genruntimeconfig.cache
-/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/bin/Debug/net5.0/Newtonsoft.Json.dll
-/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/obj/Debug/net5.0/Localiza.Hertz.Numbers.ConsoleApplication.csproj.CopyComplete

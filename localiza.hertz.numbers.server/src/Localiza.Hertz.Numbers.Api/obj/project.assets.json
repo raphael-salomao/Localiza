@@ -198,8 +198,8 @@
     },
     "Localiza.Hertz.Tools.Calculator/1.0.0": {
       "type": "project",
-      "path": "../../localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
-      "msbuildProject": "../../localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj"
+      "path": "../../../localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "msbuildProject": "../../../localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
+      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
       "projectName": "Localiza.Hertz.Numbers.Api",
-      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
+      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj",
       "packagesPath": "/Users/raphaelsalomao/.nuget/packages/",
-      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/Localiza.Hertz.Numbers.Api/obj/",
+      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
