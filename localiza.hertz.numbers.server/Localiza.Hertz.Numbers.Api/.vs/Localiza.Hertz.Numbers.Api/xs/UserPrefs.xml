@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A81C9CD3-0C6C-4249-8A7F-FEA1CED8DE56}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Localiza.Hertz.Numbers.Api" expanded="True">
+            <Node name="Localiza.Hertz.Numbers.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PrimeNumbersController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Localiza.Hertz.Numbers.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

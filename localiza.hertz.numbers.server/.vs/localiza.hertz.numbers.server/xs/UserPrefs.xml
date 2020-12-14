@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{0AA0B6AD-E72B-4FA6-A7CD-B98B09963861}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="src/Localiza.Hertz.Numbers.ConsoleApplication/Program.cs">
     <Files>
-      <File FileName="src/Localiza.Hertz.Numbers.ConsoleApplication/Program.cs" Line="4" Column="2" />
+      <File FileName="src/Localiza.Hertz.Numbers.ConsoleApplication/Program.cs" Line="5" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="localiza.hertz.numbers.server" expanded="True">
-            <Node name="Localiza.Hertz.Numbers.ConsoleApplication" expanded="True" selected="True" />
+            <Node name="Localiza.Hertz.Numbers.ConsoleApplication" selected="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Localiza.Hertz.Numbers.Api PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Localiza.Hertz.Numbers.ConsoleApplication FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Localiza.Hertz.Numbers.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>src/Localiza.Hertz.Numbers.Api/Localiza.Hertz.Numbers.Api.csproj</String>
   </DisabledProjects>

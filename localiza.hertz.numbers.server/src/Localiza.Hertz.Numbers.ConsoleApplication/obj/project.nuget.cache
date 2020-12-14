@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YU/K4m32y7iUPV1PRurrnRnFskYdgTDYHfg4p0JrGK+azpHjXrlb6PrV4VLv/OdYVcv95aQ3weGIVUlfP4AWjg==",
+  "dgSpecHash": "pLFuhArL7ZryKZq2GGuK8O5BDZjHTUsk9qUMeoW8gs6QzxjGCzLB4Wm7BBwV6Eekp5kPHAn+smopimdyHQOV8g==",
   "success": true,
   "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.numbers.server/src/Localiza.Hertz.Numbers.ConsoleApplication/Localiza.Hertz.Numbers.ConsoleApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/raphaelsalomao/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
