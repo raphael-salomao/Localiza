@@ -12,14 +12,14 @@ namespace UnitTest
         {
             var calculate = new Calculate
             {
-                InputNumber = 40
+                InputNumber = 200
             };
 
             var facade = new FacadeCalculator(calculate);
 
             var result = facade.CalculateDivisorNumbers();
 
-            Assert.Equal(1000.00m, result.Numbers.Sum());
+            Assert.Equal(12, result.Numbers.Count());
         }
     }
 }

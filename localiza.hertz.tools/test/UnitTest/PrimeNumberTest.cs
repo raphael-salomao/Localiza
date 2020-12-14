@@ -1,4 +1,4 @@
-using System.Linq;
+using System.Collections.Generic;
 using Localiza.Hertz.Tools.Calculator.Calculations.Implementation;
 using Localiza.Hertz.Tools.Calculator.Facade;
 using Xunit;
@@ -12,14 +12,24 @@ namespace UnitTest
         {
             var calculate = new Calculate
             {
-                InputNumber = 40
+                InputNumber = 200
             };
 
             var facade = new FacadeCalculator(calculate);
 
-            var result = facade.CalculatePrimeNumbers();
+            var result = facade.CalculateDivisorNumbers();
 
-            Assert.Equal(1000.00m, result.Numbers.Sum());
+            var primes = new List<decimal>();
+
+            foreach (var item in result.Numbers)
+            {
+                var isPrime = new FacadeCalculator(new Calculate() { InputNumber = item }).CalculatePrimeNumbers().IsPrime;
+
+                if (isPrime)
+                {
+                    primes.Add(item);
+                }
+            }
         }
     }
 }

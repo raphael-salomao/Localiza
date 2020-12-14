@@ -8,23 +8,23 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/Users/raphaelsalomao/.nuget/packages/": {},
+    "/Users/raphaelbonfimsalomao/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "projectUniqueName": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
       "projectName": "Localiza.Hertz.Tools.Calculator",
-      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
-      "packagesPath": "/Users/raphaelsalomao/.nuget/packages/",
-      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/",
+      "projectPath": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "packagesPath": "/Users/raphaelbonfimsalomao/.nuget/packages/",
+      "outputPath": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/raphaelsalomao/.config/NuGet/NuGet.Config"
+        "/Users/raphaelbonfimsalomao/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-rc.2.20479.15/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

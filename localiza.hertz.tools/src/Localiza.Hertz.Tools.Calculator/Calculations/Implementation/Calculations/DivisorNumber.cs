@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Results;
 
 namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculations
@@ -20,6 +21,9 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
         private IResultDivisorNumbers CalculateDivisorNumbers()
         {
             var result = new List<decimal>();
+            var allDividor = new List<decimal>();
+            allDividor.Add(1);
+            result.Add(1);
             var div = 2;
 
             while (_calculate.InputNumber > 1)
@@ -34,7 +38,19 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
                 }
             }
 
-            return new ResultDivisorNumbers(result);
+            foreach (var item in result)
+            {
+                var newDividores = new List<decimal>();
+
+                foreach (var divisor in allDividor)
+                {
+                    newDividores.Add(item * divisor);
+                }
+
+                allDividor.AddRange(newDividores);
+            }
+
+            return new ResultDivisorNumbers(allDividor.Distinct().ToList());
         }
     }
 }

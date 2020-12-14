@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Results;
 
 namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculations
@@ -19,9 +20,24 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
 
         private IResultPrimeNumbers CalculatePrimeNumbers()
         {
+            var number = _calculate.InputNumber;
             var result = new List<decimal>();
+            var div = 1;
 
-            return new ResultPrimeNumbers(result);
+            while (_calculate.InputNumber > 1)
+            {
+                if ((_calculate.InputNumber % div) == 0)
+                {
+                    _calculate.InputNumber = (_calculate.InputNumber / div);
+                    result.Add(div);
+                }
+                else
+                {
+                    div++;
+                }
+            }
+
+            return new ResultPrimeNumbers(result.Count() == 2 && result.LastOrDefault() == number);
         }
     }
 }

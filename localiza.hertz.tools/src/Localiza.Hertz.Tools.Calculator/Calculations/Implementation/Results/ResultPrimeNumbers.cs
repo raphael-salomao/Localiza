@@ -1,14 +1,12 @@
-﻿using System.Collections.Generic;
-
-namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Results
+﻿namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Results
 {
     public class ResultPrimeNumbers : IResultPrimeNumbers
     {
-        public ResultPrimeNumbers(List<decimal> numbers)
+        public ResultPrimeNumbers(bool isPrime)
         {
-            Numbers = numbers;
+            IsPrime = isPrime;
         }
 
-        public List<decimal> Numbers { get; set; }
+        public bool IsPrime { get; set; }
     }
 }
