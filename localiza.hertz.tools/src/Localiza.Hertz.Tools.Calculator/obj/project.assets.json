@@ -8,23 +8,23 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/Users/raphaelbonfimsalomao/.nuget/packages/": {},
+    "/Users/raphaelsalomao/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "projectUniqueName": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
       "projectName": "Localiza.Hertz.Tools.Calculator",
-      "projectPath": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
-      "packagesPath": "/Users/raphaelbonfimsalomao/.nuget/packages/",
-      "outputPath": "/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/",
+      "projectPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/Localiza.Hertz.Tools.Calculator.csproj",
+      "packagesPath": "/Users/raphaelsalomao/.nuget/packages/",
+      "outputPath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/src/Localiza.Hertz.Tools.Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/raphaelbonfimsalomao/.config/NuGet/NuGet.Config"
+        "/Users/raphaelsalomao/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"

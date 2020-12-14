@@ -2,11 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.test.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="test/UnitTest/PrimeNumberTest.cs">
     <Files>
-      <File FileName="src/Localiza.Hertz.Tools.Calculator/Calculations/Implementation/Calculations/DivisorNumber.cs" Line="50" Column="51" />
-      <File FileName="test/UnitTest/DivisorNumberUnitTest.cs" Line="22" Column="28" />
       <File FileName="test/UnitTest/PrimeNumberTest.cs" Line="17" Column="1" />
-      <File FileName="src/Localiza.Hertz.Tools.Calculator/Calculations/Implementation/Calculations/PrimeNumber.cs" Line="19" Column="1" />
-      <File FileName="src/Localiza.Hertz.Tools.Calculator/Facade/FacadeCalculator.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -32,26 +28,17 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="localiza.hertz.tools" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="20" column="1" />
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="22" column="1" />
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="12" column="1" />
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/PrimeNumberTest.cs" relfile="test/UnitTest/PrimeNumberTest.cs" line="12" column="1" />
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/PrimeNumberTest.cs" relfile="test/UnitTest/PrimeNumberTest.cs" line="33" column="1" />
-      <Breakpoint file="/Users/raphaelbonfimsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/PrimeNumberTest.cs" relfile="test/UnitTest/PrimeNumberTest.cs" line="28" column="1" />
+      <Breakpoint file="/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="20" column="1" />
+      <Breakpoint file="/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="22" column="1" />
+      <Breakpoint file="/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/DivisorNumberUnitTest.cs" relfile="test/UnitTest/DivisorNumberUnitTest.cs" line="12" column="1" />
+      <Breakpoint file="/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/PrimeNumberTest.cs" relfile="test/UnitTest/PrimeNumberTest.cs" line="12" column="1" />
+      <Breakpoint file="/Users/raphaelsalomao/Documents/GitHub/Localiza/localiza.hertz.tools/test/UnitTest/PrimeNumberTest.cs" relfile="test/UnitTest/PrimeNumberTest.cs" line="33" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
