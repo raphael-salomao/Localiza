@@ -30,6 +30,9 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
                 {
                     _calculate.InputNumber = (_calculate.InputNumber / div);
                     result.Add(div);
+
+                    if (div == 1)
+                        div++;
                 }
                 else
                 {

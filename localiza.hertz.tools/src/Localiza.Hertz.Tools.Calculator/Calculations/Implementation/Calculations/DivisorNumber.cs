@@ -50,7 +50,7 @@ namespace Localiza.Hertz.Tools.Calculator.Calculations.Implementation.Calculatio
                 allDividor.AddRange(newDividores);
             }
 
-            return new ResultDivisorNumbers(allDividor.Distinct().ToList());
+            return new ResultDivisorNumbers(allDividor.Distinct().OrderBy(o => o).ToList());
         }
     }
 }

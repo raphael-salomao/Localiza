@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.809.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Hertz.Numbers.Api", "Localiza.Hertz.Numbers.Api\Localiza.Hertz.Numbers.Api.csproj", "{1605A7E0-50E1-4E96-8332-5AA0C62111B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Hertz.Tools.Calculator", "..\localiza.hertz.tools\src\Localiza.Hertz.Tools.Calculator\Localiza.Hertz.Tools.Calculator.csproj", "{C253A63A-0BE5-47BC-BD11-51C017E8C665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1605A7E0-50E1-4E96-8332-5AA0C62111B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1605A7E0-50E1-4E96-8332-5AA0C62111B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1605A7E0-50E1-4E96-8332-5AA0C62111B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C253A63A-0BE5-47BC-BD11-51C017E8C665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
