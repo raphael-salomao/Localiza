@@ -1,0 +1,14 @@
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/bin/Debug/netstandard2.0/DivisoresPrimos.deps.json
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/bin/Debug/netstandard2.0/DivisoresPrimos.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/bin/Debug/netstandard2.0/ref/DivisoresPrimos.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/bin/Debug/netstandard2.0/DivisoresPrimos.pdb
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.csprojAssemblyReference.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.AssemblyInfoInputs.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.AssemblyInfo.cs
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.csproj.CoreCompileInputs.cache
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/ref/DivisoresPrimos.dll
+/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos/obj/Debug/netstandard2.0/DivisoresPrimos.pdb

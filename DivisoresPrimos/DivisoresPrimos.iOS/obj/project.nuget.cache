@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KH8ySqrXk+uigYH+hVnliMA+0LU5+CdLOMl9Z6jAcb9Npz785tuZECaoG/OYA4qSQ+tzrszlemGBt7JE/IfXGg==",
+  "success": true,
+  "projectFilePath": "/Users/raphaelsalomao/Documents/GitHub/Localiza/DivisoresPrimos/DivisoresPrimos.iOS/DivisoresPrimos.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaelsalomao/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/raphaelsalomao/.nuget/packages/xamarin.forms/5.0.0.1791-pre5/xamarin.forms.5.0.0.1791-pre5.nupkg.sha512"
+  ],
+  "logs": []
+}
